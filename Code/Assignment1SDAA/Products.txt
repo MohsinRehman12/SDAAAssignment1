@@ -1,0 +1,3 @@
+Price of Apple:0.27
+
+Price of Banana:0.35
